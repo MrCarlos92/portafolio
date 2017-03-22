@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es">
+    <head>
+        <meta content="Posición estratégica y fuerza obrera-1.0.3" name="dtb:uid"/>
+        <meta content="1" name="dtb:depth"/>
+        <meta content="0" name="dtb:totalPageCount"/>
+        <meta content="0" name="dtb:maxPageNumber"/>
+    </head>
+    <docTitle>
+        <text>Posición estratégica y fuerza obrera</text>
+    </docTitle>
+    <docAuthor>
+        <text>Wormack, Jr., John</text>
+    </docAuthor>
+    <navMap>
+        <navPoint id="navPoint-1" playOrder="1"><navLabel><text>Portada</text></navLabel><content src="xhtml/01-portada.xhtml"/></navPoint>
+        <navPoint id="navPoint-2" playOrder="2"><navLabel><text>Índice</text></navLabel><content src="xhtml/06-indice.xhtml"/></navPoint>
+        <navPoint id="navPoint-3" playOrder="3"><navLabel><text>Presentación</text></navLabel><content src="xhtml/07-presentacion.xhtml"/></navPoint>
+        <navPoint id="navPoint-4" playOrder="4"><navLabel><text>Introducción. Historia obrera: en busca de un giro conceptual</text></navLabel><content src="xhtml/10-introduccion.xhtml"/></navPoint>
+        <navPoint id="navPoint-5" playOrder="5"><navLabel><text>I. Formas de hacer historia obrera: sentimientos, trabajo, poder material</text></navLabel><content src="xhtml/11-capitulo01.xhtml"/></navPoint>
+        <navPoint id="navPoint-6" playOrder="6"><navLabel><text>II. El concepto de posición estratégica en el trabajo: su origen y evolución</text></navLabel><content src="xhtml/12-capitulo02.xhtml"/></navPoint>
+        <navPoint id="navPoint-7" playOrder="7"><navLabel><text>III. Poder y producción: sus distintas dimensiones en las ciencias sociales burguesas, 1839-2001</text></navLabel><content src="xhtml/13-capitulo03.xhtml"/></navPoint>
+        <navPoint id="navPoint-8" playOrder="8"><navLabel><text>IV. Los socialistas alemanes debaten acerca de la “huelga de masas” y su “estrategia”, 1895-1918</text></navLabel><content src="xhtml/14-capitulo04.xhtml"/></navPoint>
+        <navPoint id="navPoint-9" playOrder="9"><navLabel><text>V. Los marxistas rusos y soviéticos: estrategia industrial, “estrategia política”, 1905-1932</text></navLabel><content src="xhtml/15-capitulo05.xhtml"/></navPoint>
+        <navPoint id="navPoint-10" playOrder="10"><navLabel><text>VI. La “estrategia de huelga” de la Internacional Roja, 1923-1930</text></navLabel><content src="xhtml/16-capitulo06.xhtml"/></navPoint>
+        <navPoint id="navPoint-11" playOrder="11"><navLabel><text>VII. Los marxistas occidentales: guerra industrial, lucha ideológica, poder estratégico y movimientos sociales, 1935-2005</text></navLabel><content src="xhtml/17-capitulo07.xhtml"/></navPoint>
+        <navPoint id="navPoint-12" playOrder="12"><navLabel><text>VIII. Estrategia para las empresas, nostalgia para los obreros</text></navLabel><content src="xhtml/18-capitulo08.xhtml"/></navPoint>
+        <navPoint id="navPoint-13" playOrder="13"><navLabel><text>Siglas y acrónimos</text></navLabel><content src="xhtml/28-siglasyacronimos.xhtml"/></navPoint>
+        <navPoint id="navPoint-14" playOrder="14"><navLabel><text>Bibliografía</text></navLabel><content src="xhtml/29-bibliografia.xhtml"/></navPoint>
+    </navMap>
+</ncx>

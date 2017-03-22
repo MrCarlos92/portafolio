@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xml:lang="es" unique-identifier="uid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title>Posición estratégica y fuerza obrera</dc:title>
+        <dc:creator>Wormack, Jr., John</dc:creator>
+        <dc:publisher>Fondo de Cultura Económica</dc:publisher>
+        <dc:description>El trabajo es lo que volvió humana a nuestra especie, cada vez más humana, afirma John Womack Jr. Posición estratégica y fuerza obrera nos acerca a la comprensión de dicho principio. Las dimensiones económicas y sociológicas de la historia laboral confluyen en un punto desatendido por los historiadores hasta ahora: la posición estratégica de los trabajadores. ¿Qué factores influyen para que un grupo de empleados cierren una fábrica, desactiven la industria o paralicen la vida económica de un país? John Womack Jr. elabora aquí un análisis sobre el poder industrial y el poder relativo de los trabajadores. Este estudio acerca del trabajo y de la organización industrial, desde la óptica de la posición estratégica, arroja nueva luz en torno del trabajo obrero, las relaciones sindicales y entre las industrias. Este primer ensayo forma parte de una trilogía de estudios sobre industrias claves, como la del petróleo, la textil, la cervecera, la de comunicaciones y la de energía, que concluye con Historia obrera, 1880-1950. Veracruz,nudo estratégico industrial.</dc:description>
+        <dc:language>es</dc:language>
+        <dc:identifier id="uid">Posición estratégica y fuerza obrera-1.0.3</dc:identifier>
+        <meta property="dcterms:modified">2016-06-20T00:52:12Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="ibooks:specified-fonts">true</meta>
+    </metadata>
+    <manifest>
+        <item href="css/principal.css" id="id_principal_css" media-type="text/css" />
+        <item href="img/colmex.jpg" id="id_colmex_jpg" media-type="image/jpeg" />
+        <item href="img/contraportada.jpg" id="id_contraportada_jpg" media-type="image/jpeg" />
+        <item href="img/logo.jpg" id="id_logo_jpg" media-type="image/jpeg" />
+        <item href="img/portada.jpg" id="id_portada_jpg" media-type="image/jpeg" properties="cover-image" />
+        <item href="nav/nav.xhtml" id="id_nav_xhtml" media-type="application/xhtml+xml" properties="nav" />
+        <item href="toc.ncx" id="id_toc_ncx" media-type="application/x-dtbncx+xml" />
+        <item href="xhtml/01-portada.xhtml" id="id_01-portada_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/02-coleccion.xhtml" id="id_02-coleccion_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/03-traduccion.xhtml" id="id_03-traduccion_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/04-portadilla.xhtml" id="id_04-portadilla_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/05-legal.xhtml" id="id_05-legal_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/06-indice.xhtml" id="id_06-indice_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/07-presentacion.xhtml" id="id_07-presentacion_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/08-dedicatoria.xhtml" id="id_08-dedicatoria_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/09-agradecimientos.xhtml" id="id_09-agradecimientos_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/10-introduccion.xhtml" id="id_10-introduccion_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/11-capitulo01.xhtml" id="id_11-capitulo01_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/12-capitulo02.xhtml" id="id_12-capitulo02_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/13-capitulo03.xhtml" id="id_13-capitulo03_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/14-capitulo04.xhtml" id="id_14-capitulo04_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/15-capitulo05.xhtml" id="id_15-capitulo05_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/16-capitulo06.xhtml" id="id_16-capitulo06_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/17-capitulo07.xhtml" id="id_17-capitulo07_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/18-capitulo08.xhtml" id="id_18-capitulo08_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/19-notasintro.xhtml" id="id_19-notasintro_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/20-notas01.xhtml" id="id_20-notas01_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/21-notas02.xhtml" id="id_21-notas02_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/22-notas03.xhtml" id="id_22-notas03_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/23-notas04.xhtml" id="id_23-notas04_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/24-notas05.xhtml" id="id_24-notas05_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/25-notas06.xhtml" id="id_25-notas06_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/26-notas07.xhtml" id="id_26-notas07_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/27-notas08.xhtml" id="id_27-notas08_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/28-siglasyacronimos.xhtml" id="id_28-siglasyacronimos_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/29-bibliografia.xhtml" id="id_29-bibliografia_xhtml" media-type="application/xhtml+xml" />
+        <item href="xhtml/30-contraportada.xhtml" id="id_30-contraportada_xhtml" media-type="application/xhtml+xml" />
+    </manifest>
+    <spine toc="id_toc_ncx">
+        <itemref idref="id_01-portada_xhtml"/>
+        <itemref idref="id_02-coleccion_xhtml"/>
+        <itemref idref="id_03-traduccion_xhtml"/>
+        <itemref idref="id_04-portadilla_xhtml"/>
+        <itemref idref="id_05-legal_xhtml"/>
+        <itemref idref="id_06-indice_xhtml"/>
+        <itemref idref="id_07-presentacion_xhtml"/>
+        <itemref idref="id_08-dedicatoria_xhtml"/>
+        <itemref idref="id_09-agradecimientos_xhtml"/>
+        <itemref idref="id_10-introduccion_xhtml"/>
+        <itemref idref="id_11-capitulo01_xhtml"/>
+        <itemref idref="id_12-capitulo02_xhtml"/>
+        <itemref idref="id_13-capitulo03_xhtml"/>
+        <itemref idref="id_14-capitulo04_xhtml"/>
+        <itemref idref="id_15-capitulo05_xhtml"/>
+        <itemref idref="id_16-capitulo06_xhtml"/>
+        <itemref idref="id_17-capitulo07_xhtml"/>
+        <itemref idref="id_18-capitulo08_xhtml"/>
+        <itemref idref="id_19-notasintro_xhtml" linear="no"/>
+        <itemref idref="id_20-notas01_xhtml" linear="no"/>
+        <itemref idref="id_21-notas02_xhtml" linear="no"/>
+        <itemref idref="id_22-notas03_xhtml" linear="no"/>
+        <itemref idref="id_23-notas04_xhtml" linear="no"/>
+        <itemref idref="id_24-notas05_xhtml" linear="no"/>
+        <itemref idref="id_25-notas06_xhtml" linear="no"/>
+        <itemref idref="id_26-notas07_xhtml" linear="no"/>
+        <itemref idref="id_27-notas08_xhtml" linear="no"/>
+        <itemref idref="id_28-siglasyacronimos_xhtml"/>
+        <itemref idref="id_29-bibliografia_xhtml"/>
+        <itemref idref="id_30-contraportada_xhtml"/>
+    </spine>
+</package>
